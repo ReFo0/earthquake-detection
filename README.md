@@ -1,5 +1,17 @@
-# deprem-bot
+This website is designed to detect earthquake data using the [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/).
 
-Discord Bot script for this project https://github.com/ReFo0/Earthquake-Discord-Bot
+## Features
 
-![image](https://github.com/ReFo0/deprem-bot/assets/77904942/563f8fe4-2e06-49c9-b5fe-9365557b7169)
+- Lists earthquakes within a specified geographic region.
+- Allows customization of minimum and maximum latitude and longitude coordinates.
+- Enables you to customize start and end dates.
+
+## Technologies Used
+
+- JavaScript
+- USGS Earthquake API
+
+## How to Use
+
+1. Download or copy the project source code.
+2. Open the `index.html` file in a web browser.
