@@ -17,4 +17,4 @@ This website is designed to detect earthquake data using the [USGS Earthquake AP
 2. Open the `index.html` file in a web browser.
 
 
-![image](https://github.com/ReFo0/deprem-bot/assets/77904942/e6ee034c-a0df-4937-ade4-edd2df30f1bd)
+![image](https://github.com/ReFo0/Earthquake-Detection-Website/assets/77904942/7660ad3a-96b8-4541-89a9-b922821b82c7)
